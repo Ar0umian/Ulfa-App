@@ -6,6 +6,57 @@
 
 الحزمة: `com.ulfa.app` — Kotlin و Jetpack Compose و Hilt و Room و Firebase (الخطة المجانية).
 
+
+---
+
+## 📱 معرض واجهات التطبيق
+
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_103946.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104118.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104126.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104220.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104245.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104336.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104348.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104436.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104500.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104531.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104551.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104600.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104623.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104639.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104703.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_104717.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105044.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105110.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105206.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105227.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105236.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105248.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105433.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105541.png" width="22%" alt="واجهة التطبيق" />
+</p>
+<p align="center">
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105553.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105611.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105705.png" width="22%" alt="واجهة التطبيق" />
+  <img src="Ulfa%20-%20Screenshot/Screenshot_20261010_105727.png" width="22%" alt="واجهة التطبيق" />
+</p>
+
+---
+
+
 ## الواجهات (34) والنوافذ (8)
 تفصيلها في `Ulfa_Screens_List.md`. كلها منفّذة. وبيانات الفعاليات والكوبونات والمستشارين **تجريبية** (P2).
 
